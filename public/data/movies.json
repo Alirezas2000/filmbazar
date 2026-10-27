@@ -1,0 +1,1362 @@
+[
+  {
+    "id": 1,
+    "titleFa": "تل‌مواسه: بخش دوم",
+    "titleEn": "Dune: Part Two",
+    "year": 2024,
+    "rating": "8.6",
+    "genre": [
+      "علمی تخیلی",
+      "ماجراجویی",
+      "اکشن"
+    ],
+    "duration": "166 دقیقه",
+    "country": "آمریکا",
+    "director": "دنیس ویلنوو",
+    "actors": "تیموتی شالامی، زندايا، ریبکا فرگوسن",
+    "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
+    "synopsis": "پل آتریدس با چانی و فرمن‌ها متحد می‌شود تا از توطئه‌گرانی که خانواده‌اش را نابود کرده‌اند انتقام بگیرد. او در مواجهه با انتخابی بین عشق زندگی‌اش و سرنوشت جهان، سعی می‌کند از آینده‌ای وحشتناک جلوگیری کند...",
+    "images": [
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80"
+    ],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 2,
+    "titleFa": "اپنهایمر",
+    "titleEn": "Oppenheimer",
+    "year": 2023,
+    "rating": "8.9",
+    "genre": [
+      "زندگینامه",
+      "درام",
+      "تاریخی"
+    ],
+    "duration": "180 دقیقه",
+    "country": "آمریکا",
+    "director": "کریستوفر نولان",
+    "actors": "کیلین مورفی، امیلی بلانت، مت دیمون",
+    "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=600&q=80",
+    "synopsis": "داستان فیزیکدان روبرت اپنهایمر و نقش او در پروژه مانهاتان برای ساخت اولین بمب اتمی در طول جنگ جهانی دوم...",
+    "images": [
+      "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&w=600&q=80"
+    ],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 3,
+    "titleFa": "بتمن",
+    "titleEn": "The Batman",
+    "year": 2022,
+    "rating": "7.8",
+    "genre": [
+      "اکشن",
+      "جنایی",
+      "درام"
+    ],
+    "duration": "176 دقیقه",
+    "country": "آمریکا",
+    "director": "مت ریوز",
+    "actors": "رابرت پتینسون، زوئی کراویتز، پل دینو",
+    "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+    "synopsis": "هنگامی که یک قاتل زنجیره‌ای نخبگان سیاسی گاتهام را هدف قرار می‌دهد، بتمن مجبور می‌شود فساد پنهان شهر را بررسی کند...",
+    "images": [
+      "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80"
+    ],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 4,
+    "titleFa": "میان‌ستاره‌ای",
+    "titleEn": "Interstellar",
+    "year": 2014,
+    "rating": "8.7",
+    "genre": [
+      "علمی تخیلی",
+      "درام",
+      "ماجراجویی"
+    ],
+    "duration": "169 دقیقه",
+    "country": "آمریکا",
+    "director": "کریستوفر نولان",
+    "actors": "متیو مک‌کانهی، آن هتوی، جسیکا چستین",
+    "poster": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80",
+    "synopsis": "گروهی از کاوشگران با استفاده از یک کرم‌چاله به فضای ناشناخته سفر می‌کنند تا سیاره‌ای جدید برای بقای بشریت پیدا کنند...",
+    "images": [
+      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80"
+    ],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 5,
+    "titleFa": "گلادیاتور ۲",
+    "titleEn": "Gladiator II",
+    "year": 2024,
+    "rating": "8.1",
+    "genre": [
+      "اکشن",
+      "درام",
+      "تاریخی"
+    ],
+    "duration": "148 دقیقه",
+    "country": "انگلستان",
+    "director": "ریدلی اسکات",
+    "actors": "پل مسکال، پدرو پاسکال، دنزل واشنگتن",
+    "poster": "https://images.unsplash.com/photo-1568870694328-2a0b24699556?auto=format&fit=crop&w=600&q=80",
+    "synopsis": "سال‌ها پس از مرگ ماکسیموس، لوسیوس پسر لوسیلا مجبور می‌شود وارد کولوسئوم شود تا از افتخار روم دفاع کند...",
+    "images": [
+      "https://images.unsplash.com/photo-1568870694328-2a0b24699556?auto=format&fit=crop&w=600&q=80"
+    ],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 6,
+    "titleFa": "تلقین",
+    "titleEn": "Inception",
+    "year": 2010,
+    "rating": null,
+    "genre": [
+      "علمی تخیلی"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 7,
+    "titleFa": "شوالیه تاریکی",
+    "titleEn": "The Dark Knight",
+    "year": 2008,
+    "rating": null,
+    "genre": [
+      "اکشن"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 8,
+    "titleFa": "رستگاری در شاوشنک",
+    "titleEn": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": null,
+    "genre": [
+      "درام"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 9,
+    "titleFa": "ماتریکس",
+    "titleEn": "The Matrix",
+    "year": 1999,
+    "rating": null,
+    "genre": [
+      "علمی تخیلی"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 10,
+    "titleFa": "آواتار: راه آب",
+    "titleEn": "Avatar: The Way of Water",
+    "year": 2022,
+    "rating": null,
+    "genre": [
+      "علمی تخیلی"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 11,
+    "titleFa": "مرد عنکبوتی: در میان دنیای عنکبوتی",
+    "titleEn": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "rating": null,
+    "genre": [
+      "انیمیشن"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 12,
+    "titleFa": "درون و بیرون ۲",
+    "titleEn": "Inside Out 2",
+    "year": 2024,
+    "rating": null,
+    "genre": [
+      "انیمیشن"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 13,
+    "titleFa": "کوکو",
+    "titleEn": "Coco",
+    "year": 2017,
+    "rating": null,
+    "genre": [
+      "انیمیشن"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 14,
+    "titleFa": "انگل",
+    "titleEn": "Parasite",
+    "year": 2019,
+    "rating": null,
+    "genre": [
+      "درام"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 15,
+    "titleFa": "جوکر",
+    "titleEn": "Joker",
+    "year": 2019,
+    "rating": null,
+    "genre": [
+      "جنایی"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 16,
+    "titleFa": "تاپ گان: ماوریک",
+    "titleEn": "Top Gun: Maverick",
+    "year": 2022,
+    "rating": null,
+    "genre": [
+      "اکشن"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 17,
+    "titleFa": "همه‌چیز همه‌جا به یکباره",
+    "titleEn": "Everything Everywhere All at Once",
+    "year": 2022,
+    "rating": null,
+    "genre": [
+      "علمی تخیلی"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 18,
+    "titleFa": "ارباب حلقه‌ها: یاران حلقه",
+    "titleEn": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": null,
+    "genre": [
+      "فانتزی"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 19,
+    "titleFa": "شلاق",
+    "titleEn": "Whiplash",
+    "year": 2014,
+    "rating": null,
+    "genre": [
+      "درام"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  },
+  {
+    "id": 20,
+    "titleFa": "هتل بزرگ بوداپست",
+    "titleEn": "The Grand Budapest Hotel",
+    "year": 2014,
+    "rating": null,
+    "genre": [
+      "کمدی"
+    ],
+    "duration": "—",
+    "country": "—",
+    "director": "—",
+    "actors": "—",
+    "poster": "",
+    "synopsis": "اطلاعات تکمیلی این عنوان به‌زودی اضافه می‌شود.",
+    "images": [],
+    "trailer": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "downloads": {
+      "dubbed": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "WEB-DL",
+          "link": "#",
+          "demo": true
+        }
+      ],
+      "subtitled": [
+        {
+          "quality": "1080p Full HD",
+          "size": "2.4 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "720p HD",
+          "size": "1.2 گیگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        },
+        {
+          "quality": "480p SD",
+          "size": "650 مگابایت",
+          "encoder": "SoftSub",
+          "link": "#",
+          "demo": true
+        }
+      ]
+    },
+    "trailerDemo": true
+  }
+]
